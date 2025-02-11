@@ -8,7 +8,7 @@ Search
 
 [![Department of Statistics and Applied Probability - UC Santa Barbara](https://www.pstat.ucsb.edu/sites/default/themes/at_lsit/images/department/pstat-banner-navy.svg)](/)
 
-# [Department of Statistics and Applied Probability - UC Santa Barbara](/ "Home page")
+# DEI
 
 ## Main menu
 
