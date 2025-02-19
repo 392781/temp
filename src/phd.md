@@ -1,29 +1,3 @@
-[Skip to main content](#main-content)
-
-[University of California, Santa Barbara](http://www.ucsb.edu)
-
-## Search form
-
-Search
-
-[![Department of Statistics and Applied Probability - UC Santa Barbara](https://www.pstat.ucsb.edu/sites/default/themes/at_lsit/images/department/pstat-banner-navy.svg)](/)
-
-# [Department of Statistics and Applied Probability - UC Santa Barbara](/ "Home page")
-
-## Main menu
-
-- [About](/about "About")
-- [Undergraduate](/undergrad)
-- [Graduate](/graduate)
-- [Courses](/courses)
-- [Resources](/resources "Resources")
-- [People](/people)
-- [Alumni](/alumni "Undergraduate Alumni")
-- [News and Events](/news)
-- [Employment](/about/employment "Employment")
-- [Forms](/forms "Forms")
-- [Giving](/giving "Giving")
-
 # PhD in Statistics and Applied Probability
 
 Our doctoral program in Statistics and Applied Probability prepares graduate students to expand the boundaries of statistical theory and practice for use in real-world problem solving. Graduates are trained for a career in academics or industry where they are working in and contributing to the forefront of new methods and technology. This program provides rigorous mathematical training in statistics and probability that can be used to develop real-world methodologies applicable to a wide range of interdisciplinary fields including finance, environmental science, computer science, and biomedical science. Recent dissertations have been written in the areas of smoothing splines, spatial statistics, micro-array analysis, functional data models, empirical processes, mathematical and statistical finance, Bayesian inference, and bootstrap estimation methods.

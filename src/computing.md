@@ -1,29 +1,3 @@
-[Skip to main content](#main-content)
-
-[University of California, Santa Barbara](http://www.ucsb.edu)
-
-## Search form
-
-Search
-
-[![Department of Statistics and Applied Probability - UC Santa Barbara](https://www.pstat.ucsb.edu/sites/default/themes/at_lsit/images/department/pstat-banner-navy.svg)](/)
-
-# [Department of Statistics and Applied Probability - UC Santa Barbara](/ "Home page")
-
-## Main menu
-
-- [About](/about "About")
-- [Undergraduate](/undergrad)
-- [Graduate](/graduate)
-- [Courses](/courses)
-- [Resources](/resources "Resources")
-- [People](/people)
-- [Alumni](/alumni "Undergraduate Alumni")
-- [News and Events](/news)
-- [Employment](/about/employment "Employment")
-- [Forms](/forms "Forms")
-- [Giving](/giving "Giving")
-
 # Computing
 
 ## Computing Resources Overview
