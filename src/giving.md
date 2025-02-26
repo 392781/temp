@@ -1,29 +1,3 @@
-[Skip to main content](#main-content)
-
-[University of California, Santa Barbara](http://www.ucsb.edu)
-
-## Search form
-
-Search
-
-[![Department of Statistics and Applied Probability - UC Santa Barbara](https://www.pstat.ucsb.edu/sites/default/themes/at_lsit/images/department/pstat-banner-navy.svg)](/)
-
-# Giving
-
-## Main menu
-
-- [About](/about "About")
-- [Undergraduate](/undergrad)
-- [Graduate](/graduate)
-- [Courses](/courses)
-- [Resources](/resources "Resources")
-- [People](/people)
-- [Alumni](/alumni "Undergraduate Alumni")
-- [News and Events](/news)
-- [Employment](/about/employment "Employment")
-- [Forms](/forms "Forms")
-- [Giving](/giving "Giving")
-
 # Giving
 
 Thank you for considering a donation to the Department of Statistics and Applied Probability at the University of California, Santa Barbara. Our Department is dependent on the generous donations of people like you in order to fund the rich and diverse activities the Department offers to students, visiting researchers, and the community.
