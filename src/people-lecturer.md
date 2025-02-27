@@ -1,4 +1,4 @@
-# People
+# people-lecturer.md
 
 [Sudeep Bapat](/people/sudeep-bapat)
 

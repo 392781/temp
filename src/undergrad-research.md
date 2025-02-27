@@ -88,7 +88,7 @@ PSTAT 197ABC is a year-long capstone sequence in the field of data science. In f
 
 Before applying for capstone, students should have a background in computing and statistics, demonstrated by a strong performance in such preparatory courses like PSTAT 100, PSTAT 131, PSTAT 126, and COMPSC 130A. Additionally, students must commit to the entire sequence and not graduate before Spring. Data Science Capstone is listed concurrently in the Computer Science Department as CMPSC 190DD-DE-DF. Examples of past projects can be found here: [https://centralcoastdatascience.org/projects](https://centralcoastdatascience.org/projects).
 
-Applications typically open during the Spring quarter each year, with admission decisions released in late May or early June. Applications for PSTAT 197ABC for the 2024-2025 school year are now open!
+Applications typically open during the Spring quarter each year, with admission decisions released in late May or early June. Applications for PSTAT 197ABC for the 2025-2026 school year will open next quarter. 
 
 ## Further Resources
 

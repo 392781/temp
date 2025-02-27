@@ -5,10 +5,10 @@
 - [Day(active tab)](/news/calendar/day)
 - [Year](/news/calendar/year)
 
-### Tuesday, February 25, 2025
+### Wednesday, February 26, 2025
 
-- [« Prev](https://www.pstat.ucsb.edu/news/calendar/day/2025-02-24 "Navigate to previous day")
-- [Next »](https://www.pstat.ucsb.edu/news/calendar/day/2025-02-26 "Navigate to next day")
+- [« Prev](https://www.pstat.ucsb.edu/news/calendar/day/2025-02-25 "Navigate to previous day")
+- [Next »](https://www.pstat.ucsb.edu/news/calendar/day/2025-02-27 "Navigate to next day")
 
 All day
 

@@ -1,4 +1,4 @@
-# MA in Statistics
+# graduate-perspective-admissions-ma.md
 
 ![](/sites/secure.lsit.ucsb.edu.stat.d7/files/sitefiles/Photos/ucsb7-web.jpg)
 

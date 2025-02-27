@@ -1,4 +1,4 @@
-# PhD in Statistics and Applied Probability
+# graduate-perspective-admissions-phd.md
 
 Admission decisions are made by the departmental Graduate Admissions Committee. Admission to the program is considered based on academic achievement, programmatic fit, and scholarly potential. 
 

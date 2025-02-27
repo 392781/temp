@@ -6,10 +6,6 @@ Gabrielle Salo
 
 [gsalo@ucsb.edu](mailto:gsalo@ucsb.edu) 5A, 120A, 130
 
-Jeffrey Wu
-
-[jeffreywu@pstat.ucsb.edu](mailto:jeffreywu@pstat.ucsb.edu) 5A, 10, 109, 120A
-
 Huiyu Jiang
 
 [huiyujiang@ucsb.edu](mailto:huiyujiang@ucsb.edu) 10, 120AB, 160AB

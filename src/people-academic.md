@@ -1,4 +1,4 @@
-# People
+# people-academic.md
 
 ## Faculty
 

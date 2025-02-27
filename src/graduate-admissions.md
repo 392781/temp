@@ -1,4 +1,4 @@
-# Graduate
+# graduate-admissions.md
 
 ## Available Programs
 

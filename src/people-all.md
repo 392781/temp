@@ -1,4 +1,4 @@
-# People
+# people-all.md
 
 [Ali Abdul Kader](/people/ali-abdul-kader)
 

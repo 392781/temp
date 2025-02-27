@@ -1,4 +1,4 @@
-# People
+# people-alumni.md
 
 [Christina Ahn](/people/christina-ahn)
 

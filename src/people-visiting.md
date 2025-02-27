@@ -1,4 +1,4 @@
-# People
+# people-visiting.md
 
 ## Visiting Faculty
 

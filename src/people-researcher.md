@@ -1,4 +1,4 @@
-# People
+# people-researcher.md
 
 [Sara Li](/people/sara-li)
 

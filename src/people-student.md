@@ -1,4 +1,4 @@
-# People
+# people-student.md
 
 ## Graduate Students
 

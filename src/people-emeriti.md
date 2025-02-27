@@ -1,4 +1,4 @@
-# People
+# people-emeriti.md
 
 ## Emeriti
 
