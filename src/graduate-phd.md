@@ -1,3 +1,5 @@
+# graduate-phd
+
 # PhD in Statistics and Applied Probability
 
 Our doctoral program in Statistics and Applied Probability prepares graduate students to expand the boundaries of statistical theory and practice for use in real-world problem solving. Graduates are trained for a career in academics or industry where they are working in and contributing to the forefront of new methods and technology. This program provides rigorous mathematical training in statistics and probability that can be used to develop real-world methodologies applicable to a wide range of interdisciplinary fields including finance, environmental science, computer science, and biomedical science. Recent dissertations have been written in the areas of smoothing splines, spatial statistics, micro-array analysis, functional data models, empirical processes, mathematical and statistical finance, Bayesian inference, and bootstrap estimation methods.
@@ -89,51 +91,3 @@ PSTAT 501
 - [BS/MS in Actuarial Science](/undergrad/actuarial-science/bs-ms "BS/MS in Actuarial Science")
 - [Current Students](/graduate/current "Current Graduate Students")
 - [Alumni](/graduate/alumni "Graduate Alumni")
-
-## Join Our Listserv
-
-**Department ListServ**
-
-[Subscribe!](https://groups.google.com/u/1/a/pstat.ucsb.edu/g/pstat-undergrad?hl=en)
-
-**Department of Statistics and Applied Probability**  
-UC Santa Barbara  
-Santa Barbara CA 93106-3110
-
-Campus MailCode: 3110  
-[Campus Maps](http://www.aw.id.ucsb.edu/maps/)
-
-South Hall 5607A  
-Main office hours \[PST]  
-Monday through Friday  
-9am-12pm and 1-4pm
-
-- [About](/about "About")
-- [Undergraduate](/undergrad)
-- [Graduate](/graduate)
-- [Courses](/courses)
-- [Resources](/resources "Resources")
-- [People](/people)
-- [Alumni](/alumni "Undergraduate Alumni")
-- [News and Events](/news)
-- [Employment](/about/employment "Employment")
-- [Forms](/forms "Forms")
-- [Giving](/giving "Giving")
-
-<!--THE END-->
-
-- [College of Letters and Science](http://www.college.ucsb.edu "College of Letters and Science")
-- [UC Santa Barbara](http://www.ucsb.edu "UC Santa Barbara")
-- [Accessibility](/accessibility "Accessibility")
-- [Appropriate Use](http://www.policy.ucsb.edu/terms_of_use/ "Appropriate Use")
-- [Privacy](http://www.policy.ucsb.edu/privacy-notification/ "Privacy")
-- [Webmaster](mailto:help@pstat.ucsb.edu "Webmaster")
-
-## Support the Department
-
-We invite you to be part of the Department’s success in educating the next generation of leaders. [More info...](/giving)
-
-- ©2025
-- The Regents of the University of California.
-- All Rights Reserved.
-- UC Santa Barbara, Santa Barbara, CA 93106

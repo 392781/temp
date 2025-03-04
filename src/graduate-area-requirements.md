@@ -1,3 +1,5 @@
+# graduate-area-requirements
+
 # Graduate Area Requirements
 
 []()In order to ensure breadth in the course of study, the Department of Statistics and Applied Probability has set up area requirements in the disciplines of applied statistics, mathematical statistics, and probability.  Students may also choose to satisfy a pure mathematics area requirement offered by the Department of Mathematics.  The area requirements vary for each degree, specialization, and optional Ph.D. emphasis.  Consult with the Graduate Advisor or your committee chair as to which of these area requirements are appropriate for your proposed field of study, research, and degree objective.  Each area requirement consists of two parts:
@@ -164,51 +166,3 @@ The examination consists of two parts;
 - [BS/MS in Actuarial Science](/undergrad/actuarial-science/bs-ms "BS/MS in Actuarial Science")
 - [Current Students](/graduate/current "Current Graduate Students")
 - [Alumni](/graduate/alumni "Graduate Alumni")
-
-## Join Our Listserv
-
-**Department ListServ**
-
-[Subscribe!](https://groups.google.com/u/1/a/pstat.ucsb.edu/g/pstat-undergrad?hl=en)
-
-**Department of Statistics and Applied Probability**  
-UC Santa Barbara  
-Santa Barbara CA 93106-3110
-
-Campus MailCode: 3110  
-[Campus Maps](http://www.aw.id.ucsb.edu/maps/)
-
-South Hall 5607A  
-Main office hours \[PST]  
-Monday through Friday  
-9am-12pm and 1-4pm
-
-- [About](/about "About")
-- [Undergraduate](/undergrad)
-- [Graduate](/graduate)
-- [Courses](/courses)
-- [Resources](/resources "Resources")
-- [People](/people)
-- [Alumni](/alumni "Undergraduate Alumni")
-- [News and Events](/news)
-- [Employment](/about/employment "Employment")
-- [Forms](/forms "Forms")
-- [Giving](/giving "Giving")
-
-<!--THE END-->
-
-- [College of Letters and Science](http://www.college.ucsb.edu "College of Letters and Science")
-- [UC Santa Barbara](http://www.ucsb.edu "UC Santa Barbara")
-- [Accessibility](/accessibility "Accessibility")
-- [Appropriate Use](http://www.policy.ucsb.edu/terms_of_use/ "Appropriate Use")
-- [Privacy](http://www.policy.ucsb.edu/privacy-notification/ "Privacy")
-- [Webmaster](mailto:help@pstat.ucsb.edu "Webmaster")
-
-## Support the Department
-
-We invite you to be part of the Department’s success in educating the next generation of leaders. [More info...](/giving)
-
-- ©2025
-- The Regents of the University of California.
-- All Rights Reserved.
-- UC Santa Barbara, Santa Barbara, CA 93106
